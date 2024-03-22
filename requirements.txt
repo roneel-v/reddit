@@ -1,8 +1,5 @@
 slack
 datetime
-random
-os
 flask
-threading
 praw
 time
